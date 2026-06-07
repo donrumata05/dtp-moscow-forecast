@@ -24,9 +24,9 @@ R²: 0.822 (модель объясняет 82% дисперсии)
 Исправление data leakage позволило модели честно обучаться
 
 ## Файлы в репозитории
-`dtp_moscow_forecast.ipynb` - Jupyter Notebook с полным анализом
-`moscow_heatmap.html` - интерактивная карта (можно скачать и открыть в браузере)
-`requirements.txt` - зависимости для запуска
+-`dtp_moscow_forecast.ipynb` - Jupyter Notebook с полным анализом
+-`moscow_heatmap.html` - интерактивная карта (можно скачать и открыть в браузере)
+-`requirements.txt` - зависимости для запуска
 
 ## Как запустить
 ```bash
